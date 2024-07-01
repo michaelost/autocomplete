@@ -2,6 +2,10 @@
 
 This project is a React-based application using Next.js and GraphQL to create an autocomplete search component for Rick and Morty characters.
 
+## Screenshot
+
+![Screenshot of the application](./public/screenshot.png)
+
 ## Setup Instructions
 
 ### Prerequisites
